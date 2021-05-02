@@ -21,3 +21,7 @@ Nazwa pluginu | Zastosowanie
 ------------ | -------------
 Rainbow Brackets | Kolorowanie nawiasów w celu efektywniejszej pracy i łatwiejszej nawigacji
 Nord| Motyw w ciemnych odcieniach chłodnego niebieskiego w celu zapobiegnięcia szybkiego zmęczenia oczu
+
+
+## Screenshots
+![Login app](./images/login-app.png)
