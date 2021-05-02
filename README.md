@@ -5,7 +5,7 @@ Nauka programowania obiektowego w języku Java
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [IDE](#ide)
-* [Example](#przykladowa-aplikacja)
+* [Example](#przykładowa-aplikacja)
 ## General info
 Ten projekt ma na celu przybliżenie oraz nauczenie tego, czym jest programowanie obiektowe przy użyciu języka Java w wersji Java Standard Edition 15
 
