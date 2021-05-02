@@ -3,7 +3,13 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        OdtwarzaczWideo odtwarzacz;
+        FabrykaOdtwarzaczy fabrykaOdtwarzaczy = new FabrykaOdtwarzaczy();
+        odtwarzacz = fabrykaOdtwarzaczy.zwrocOdtwarzaczWideo("Sample.avi");
+
+        if (odtwarzacz != null) {
+            odtwarzacz.odtwarzaj("Sample.avi");
+        }
     }
 }
 
@@ -26,9 +32,15 @@ class OdtwarzaczAVI implements OdtwarzaczWideo {
 }
 
 class FabrykaOdtwarzaczy {
+
     OdtwarzaczWideo zwrocOdtwarzaczWideo(String nazwaPliku) {
+
         if (nazwaPliku.endsWith(".mp4")) {
-            return OdtwarzaczMP4();
+            return new OdtwarzaczMP4();
         }
+        else if (nazwaPliku.endsWith(".avi")) {
+            return new OdtwarzaczAVI();
+        }
+        return null;
     }
 }
