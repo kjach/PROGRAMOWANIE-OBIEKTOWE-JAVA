@@ -5,7 +5,7 @@ Nauka programowania obiektowego w języku Java
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [IDE](#ide)
-
+* [Example](#przykladowa-aplikacja)
 ## General info
 Ten projekt ma na celu przybliżenie oraz nauczenie tego, czym jest programowanie obiektowe przy użyciu języka Java w wersji Java Standard Edition 15
 
@@ -23,5 +23,5 @@ Rainbow Brackets | Kolorowanie nawiasów w celu efektywniejszej pracy i łatwiej
 Nord| Motyw w ciemnych odcieniach chłodnego niebieskiego w celu zapobiegnięcia szybkiego zmęczenia oczu
 
 
-## Screenshots
+## Przykładowa aplikacja
 ![Login app](./images/login-app.png)
