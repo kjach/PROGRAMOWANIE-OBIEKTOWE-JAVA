@@ -24,6 +24,6 @@ Nord| Motyw w ciemnych odcieniach chłodnego niebieskiego w celu zapobiegnięcia
 
 
 ## Przykładowa aplikacja
-Aplikacja *Login App* ma na celu stworzenie listy obiektów-userów a następnie po uruchomieniu zalogowanie się. Jeżeli dane do logowania się zgadzają, konsola wypisze który użytkownik się zalogował. W przeciwnym razie poinformuje o błędnych danych i powróci do próby logowania.
+Aplikacja *[Login app](./LoginApp)* ma na celu stworzenie listy obiektów-userów a następnie po uruchomieniu zalogowanie się. Jeżeli dane do logowania się zgadzają, konsola wypisze który użytkownik się zalogował. W przeciwnym razie poinformuje o błędnych danych i powróci do próby logowania.
 
 ![Login app](./images/login-app.png)
